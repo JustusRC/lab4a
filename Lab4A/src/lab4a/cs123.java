@@ -1,5 +1,3 @@
-package lab4a;
-
 import java.util.Scanner;
 
 public class cs123 {
